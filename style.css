@@ -1,0 +1,211 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.contact p{
+    font-family: Helvetica;
+font-size: 17px;
+font-weight: 700;
+line-height: 20px;
+color: rgba(88, 99, 227, 1);
+margin-bottom: 7px;
+}
+.contact h1{
+font-family: Helvetica;
+font-size: 49px;
+font-weight: 400;
+line-height: 56px;
+margin-bottom: 57px;
+}
+.contact{
+    margin-top:57px;
+    margin-left: 144px;
+}
+.inputs{
+    display: flex;
+    margin-left: 144px;
+}
+.input-2{
+    display: flex;
+    flex-direction: column;
+    margin-left:20px;
+}
+.input-1 input{
+    width: 756px;
+    height: 290px;
+    background-color: rgb(249, 249, 249);
+     border-color: rgb(242, 242, 242);
+     border: none;
+     font-size:20px;
+     padding-bottom: 250px;
+     padding-left: 10px;
+     word-break: break-all;
+}
+.input-1 input:focus{
+    outline:none!important;
+}
+.input-2 input{
+    width: 370px;
+    height: 59px;
+    margin-bottom: 16px;
+    background-color: rgb(249, 249, 249);
+     border-color: rgb(242, 242, 242);
+     border: none;
+     font-size:20px;
+     padding-left: 10px;
+}
+.input-2 input:focus{
+    outline:none!important;
+}
+.input-2 button{
+    width: 370px;
+    height: 59px;
+    background: rgba(89, 104, 244, 1);
+    border: none;
+
+    color: white;
+    transition: 0.5s;
+    margin-top: 5px;
+}
+.input-2 button:hover{
+    background: rgb(4, 11, 75);
+    color: rgba(89, 104, 244, 1);
+    border-radius: 15px 5px;
+}
+.burti{
+    width: 68px;
+    height: 68px;
+    background: rgba(89, 104, 244, 1);
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.loc{
+    margin-top: 14px;
+    padding-left: 22px;
+}
+.tel{
+    padding-top: 13px;
+    padding-left: 7px;
+}
+.mail{
+    padding-top: 18px;
+    padding-left: 13px;
+}
+.info{
+    display: flex;
+    margin-top:48px;
+    margin-bottom: 90px;
+}
+.c-3{
+    margin-left: 251px;
+}
+.c-2{
+    margin-left: 223px;
+}
+.c-1{
+    margin-left:210px;
+}
+.sat{
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    text-align: center;
+}
+.det{
+    font-family: Helvetica;
+font-size: 15px;
+font-weight: 700;
+line-height: 20px;
+color: rgba(153, 153, 154, 1);
+text-align: center;
+}
+.sami-p{
+    display: flex;
+    margin-bottom:39px;
+}
+footer{
+    background: rgba(0, 0, 0, 1);
+    display: flex;
+}
+.seqcia-1{
+    color: white;
+    margin-left: 143px;
+    padding-top:63px !important;
+    margin-right:191px;
+}
+.seqcia-1 h3{
+    font-family: Helvetica;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.seqcia-1 p{
+    margin-top: 23px;
+    margin-bottom:23px;
+    font-family: Helvetica;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+color: rgba(153, 153, 154, 1);
+}
+.icons{
+    display: flex;
+}
+.icons img{
+    margin-right: 10px;
+}
+.seqcia-2{
+    padding-top: 63px;
+    margin-right: 86px;
+    display: flex;
+    flex-direction: column;
+}
+.seqcia-2 h4{
+    font-family: Helvetica;
+font-size: 21px;
+font-weight: 400;
+line-height: 24px;
+color: white;
+margin-bottom: 32px;
+}
+.seqcia-2 a{
+    text-decoration: none!important;
+    margin-top: 5px;
+    font-family: Helvetica;
+font-size: 17px;
+font-weight: 400;
+line-height: 20px;
+}
+.seqcia-4{
+    padding-top: 63px;
+    margin-right: 86px;
+    display: flex;
+    flex-direction: column;
+}
+.seqcia-4 h4{
+    font-family: Helvetica;
+font-size: 21px;
+font-weight: 400;
+line-height: 24px;
+color: white;
+margin-bottom: 32px;
+}
+.ic img{
+    width: 21px;
+    height: 15px;
+    margin-right: 8px;
+    margin-top: 3px;
+}
+.ic{
+    display: flex;
+    margin-top: 13px;
+}
+.ic p{
+    font-family: Helvetica;
+font-size: 17px;
+font-weight: 400;
+line-height: 20px;
+color: white;
+}
